@@ -3050,7 +3050,7 @@ blockquote .author::before {
 
 .item-details-page .item-media {
     position: relative;
-    padding-top: 49px;
+    padding-top: 30px;
 }
 
 .item-details-page .item-media .countdown {
@@ -3067,7 +3067,8 @@ blockquote .author::before {
 }
 
 .item-details-page .item-media .media img {
-    width: 100%;
+    width: 93%;
+    height: 250px;
 }
 
 .item-details-page .content-item {
